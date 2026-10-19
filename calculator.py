@@ -2,7 +2,7 @@
 
 OPS = {
     "+": lambda a, b: a + b,
-    "-": lambda a, b: b - a,  # oops
+    "-": lambda a, b: a - b,  # oops, not
     "*": lambda a, b: a * b,
     "/": lambda a, b: a / b,
 }
